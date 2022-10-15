@@ -33,7 +33,7 @@
 
     const POP_DATA = [
         {
-            "url": "https://shope.ee/4zy4f3UKln",
+            "url": "https://tupaitech.net",
             "options": "menubar=1,resizable=1,width=450,height=300,top=100,left=100", // custom options
         },
         {
