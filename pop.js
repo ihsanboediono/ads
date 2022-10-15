@@ -37,31 +37,13 @@
             "options": "menubar=1,resizable=1,width=450,height=300,top=100,left=100", // custom options
         },
         {
-            "url": "https://shope.ee/8zUBzGcrLp",
+            "url": "https://google.com",
         },
         {
-            "url": "https://shope.ee/99ncBZcE0q",
+            "url": "https://yahoo.com",
         },
         {
-            "url": "https://shope.ee/7zbenQgfNb",
-        },
-        {
-            "url": "https://shope.ee/89v4zjg22c",
-        },
-        {
-            "url": "https://shope.ee/8KEVC2fOhd",
-        },
-        {
-            "url": "https://shope.ee/8UXvOLelMe",
-        },
-        {
-            "url": "https://shope.ee/9zMjB6Z3Jv",
-        },
-        {
-            "url": "https://shope.ee/99ncBZcE0q",
-        },
-        {
-            "url": "https://shope.ee/AJzZZiXmdx",
+            "url": "https://github.com",
         },
     ]
 
